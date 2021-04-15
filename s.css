@@ -1,0 +1,26 @@
+div{
+    border: solid;
+    color: rgb(14, 47, 194);
+}
+
+
+.heder{
+display:flex;
+justify-content:space-between ;
+background-color:cyan;
+align-self: "center"
+
+
+}
+h1{
+    margin-left: 550px;
+    padding: 10px;
+    color: rgb(252, 255, 245);
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(165, 60, 179);
+    align-self: center;
+}
